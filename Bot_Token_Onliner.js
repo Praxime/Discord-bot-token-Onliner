@@ -6,3 +6,5 @@ const client = new Client({
 
 client.login(
   "Put your Bot token here");
+
+process.title = `Your Bot is surely Onlined!`;
