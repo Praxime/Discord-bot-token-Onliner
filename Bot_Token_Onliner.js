@@ -7,6 +7,9 @@ const client = new Client({
 client.login(
   "Put your Bot token here");
 
-process.title = `Your Bot is Enabled and Online!`;
+client.once('ready', () => {
+  process.title = `Your bot is Online!`;
+console.log(`Logged in as ${client.user.tag}!`);
 console.log("Your bot is surely onlined!")
 console.log("By praxime")
+})
