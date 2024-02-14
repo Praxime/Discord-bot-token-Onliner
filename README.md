@@ -1,3 +1,4 @@
+# [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 # 🤖 | Discord Token Onliner for Bots
 its a very easy onliner code!
 well... it have very easy steps too!
